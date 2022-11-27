@@ -1,5 +1,4 @@
 import React from 'react';
-
 import { useCustomToast } from '../components';
 
 const Toasts = () => {
